@@ -1,0 +1,7 @@
+{
+  "{fruit, select, apple {Great apple} banana {Awesome banana}}": "{fruit, select, apple {Super pomme} banana {Banane top}}",
+  "{quantity, number, price}": "{quantity, number, price}",
+  "{today, date, short}": "{today, date, short}",
+  "{today, date}": "{today, date}",
+  "{today, time, short}": "{today, time, short}"
+}

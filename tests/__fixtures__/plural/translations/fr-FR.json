@@ -1,0 +1,3 @@
+{
+  "{quantity, plural, =0 {none} =1 {one item} other {# items}}": "{quantity, plural, =0 {aucun} =1 {un élément} other {# éléments}}"
+}

@@ -1,0 +1,6 @@
+{
+  "Translation string": "Chaine de traduction",
+  "My super translation {quantity} with multiple {values} with weird {order}": "My super translation {quantity} with multiple {values} with weird {order}",
+  "My super translation {quantity, plural, =0 {0} other {#}} with multiple {values} with weird {order}": "My super translation {quantity, plural, =0 {0} other {#}} with multiple {values} with weird {order}",
+  "{quantity, plural, =0 {0} other {#}}": "{quantity, plural, =0 {0} other {#}}"
+}

@@ -1,0 +1,3 @@
+{
+  "{fruit, select, apple {Great apple} banana {Awesome banana}}": "{fruit, select, apple {Super pomme} banana {Banane top}}"
+}

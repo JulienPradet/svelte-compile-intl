@@ -1,0 +1,4 @@
+{
+  "My price: {quantity, number, price}": "Mon prix : {quantity, number, price}",
+  "{quantity, number, price}": "{quantity, number, price}"
+}
