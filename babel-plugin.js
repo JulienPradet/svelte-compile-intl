@@ -1,2 +1,2 @@
-const plugin = require("./lib/babel-plugin");
+const plugin = require("./dist/babel-plugin");
 module.exports = plugin;

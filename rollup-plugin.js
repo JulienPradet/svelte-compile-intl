@@ -1,2 +1,2 @@
-const plugin = require("./lib/rollup-plugin");
+const plugin = require("./dist/rollup-plugin");
 module.exports = plugin;

@@ -15,14 +15,14 @@ export default {
       sourcemap: true,
       format: "cjs",
       dir: ".",
-      entryFileNames: "lib/[name].js",
+      entryFileNames: "dist/[name].js",
       exports: "auto",
     },
     {
       sourcemap: true,
       format: "esm",
       dir: ".",
-      entryFileNames: "lib/[name].[format].js",
+      entryFileNames: "dist/[name].[format].js",
     },
   ],
 };
