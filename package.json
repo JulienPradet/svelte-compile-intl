@@ -9,7 +9,9 @@
     "lint": "eslint",
     "prebuild": "del-cli dist",
     "build": "tsc --declarationDir dist --declaration true && rollup -c",
-    "test": "tape tests/*.js "
+    "test": "tape tests/*.js ",
+    "prepare": "npm run build",
+    "prepublishOnly": "npm run lint && npm run test"
   },
   "author": "Julien Pradet <julien.pradet+github@gmail.com>",
   "license": "MIT",
@@ -43,5 +45,12 @@
     "tape": "^5.0.1",
     "tslib": "^2.0.1",
     "typescript": "^4.0.2"
-  }
+  },
+  "files": [
+    "src",
+    "dist",
+    "babel-plugin.js",
+    "rollup-plugin.js",
+    "README.md"
+  ]
 }
