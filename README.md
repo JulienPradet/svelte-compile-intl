@@ -10,10 +10,10 @@ If you are willing to add translations to your application but don't want to cha
 
 ## Installation
 
-Install `svelte-compile-intl` from github by using:
+Install `svelte-compile-intl` from npm by using:
 
 ```sh
-npm install --save JulienPradet/svelte-compile-intl
+npm install --save svelte-compile-intl
 ```
 
 ## Configure your pipeline
